@@ -1,0 +1,6 @@
+{
+  "name": "GlowSkin AI",
+  "description": "AI-powered skincare analysis, product recommendations, weather-based routines, hydration tracking, and fitness band data integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
